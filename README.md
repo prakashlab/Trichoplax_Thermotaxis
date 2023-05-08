@@ -22,7 +22,7 @@ Overlaid_Traj_colored_by_time.m -- MATLAB script for visualizing trajectories
 
 RMSD_last_x_points.m  -- MATLAB script for analyzing RMSD
 
-Sample Raw data [folder] -- one sample raw image folder each for thermal gradient and control conditions, along with MATLAB script for segmenting the organisms, and sample outputs (text file with centroid trajectory and trajectory visualizations folder) -- see Readme inside this subfolder. Because GitHub has a 5GB limit, we are unable to upload more raw images. We are trying to explore Google Cloud and other options and will update. 
+Sample Raw data [folder] -- one sample raw image folder each for thermal gradient and control conditions, along with MATLAB script for segmenting the organisms, and sample outputs (text file with centroid trajectory and trajectory visualizations folder) -- see Readme inside this subfolder. Because it's slow and painful to commit large files to Github (we had to break 2 raw image folders into around 5 commits), we are trying to explore Google Cloud and other options and will update. 
 
 --------
 Results and places where file/figure outputs from code are found:
